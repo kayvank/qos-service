@@ -1,0 +1,68 @@
+{
+  "http_user_agent": "Vevo/10867 CFNetwork/758.5.3 Darwin/15.6.0",
+  "sent_at": 1488438484948,
+  "event_id": "556805d2-b981-43f9-ae70-d06c0e157ee5",
+  "device_context": {
+    "syn_id": "11515482-53e4-4d81-9222-efc67a0bb869",
+    "user_id": "14082310",
+    "build_number": "10867",
+    "radio_type": "unknown",
+    "platform": "ipad",
+    "_site": "ios-ipad-prod",
+    "device": "iPad 2",
+    "anon_id": "e4d6ab5c-bc9c-4abf-b05a-db41c13fd23a",
+    "app_version": "5.3.6",
+    "resolution": "1024x768"
+  },
+  "geo_ip": {
+    "city": "Adelaide",
+    "country": "AU",
+    "region": "05",
+    "postal_code": "5092",
+    "lat": -34.83329772949219,
+    "lng": 138.68328857421875,
+    "ip_address": "118.210.3.181"
+  },
+  "ip_address": "118.210.3.181",
+  "event_data": {
+    "ad_type": null,
+    "qos_buffering_at_end": false,
+    "playlist_name": "no playlist",
+    "duration": 247000,
+    "noun_id": "USQX91700578",
+    "loc": "player",
+    "is_ad_bool": false,
+    "timestamp": 1488438484896,
+    "title": "Something-Just-Like-This-(Lyric)",
+    "playlist_id": "no playlist",
+    "location": "player",
+    "qos_startup_time": 1419,
+    "is_ad": "no",
+    "play_id": "a402aa89-80fe-401b-a2c7-8489feeab762",
+    "asset_name": "the-chainsmokers.Something-Just-Like-This-(Lyric)",
+    "verb": "heartbeat",
+    "primary_artist": "the-chainsmokers",
+    "bitrate": 2108568.919051955,
+    "noun": "video",
+    "name": "heartbeat",
+    "stream_count": 9,
+    "video_id": "USQX91700578",
+    "qos_buffering_spinner_events": 1,
+    "url": null,
+    "qos_buffering_spinner_duration": 1419,
+    "qos_telemetry": {
+      "v1": "unique-value1",
+      "v2": "unique-value2",
+      "v3": "unique-value3",
+      "v4": "unique-value4"
+    },
+    "time": 10000
+  },
+  "metadata": {
+    "timestamp": 1488438481224,
+    "app_version": "2.1.0",
+    "build_number": "1",
+    "event_type": "endo-1.0",
+    "app_name": "event-collector"
+  }
+}

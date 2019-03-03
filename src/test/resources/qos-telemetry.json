@@ -1,0 +1,52 @@
+{
+  "device_context": {
+    "user_id": "33758726",
+    "anon_id": "null",
+    "app_version": "prd-0.3",
+    "build_number": "407-b94",
+    "device": "web",
+    "radio_type": "unknown",
+    "resolution": "3008x1692",
+    "platform": "web",
+    "syn_id": "bb8a16ab-1279-4f17-969b-1dba5eb60eda",
+    "_site": "vevo-prod",
+    "referrer": ""
+  },
+  "events": [
+    {
+      "bandwidth": 5.594178,
+      "asset_name": "manel-navarro.Do-It-for-Your-Lover",
+      "video_id": "ES1021700135",
+      "noun": "video",
+      "noun_id": "ES1021700135",
+      "location": "playlist",
+      "playlist_name": "Worldwide Picks",
+      "qos_stream_type": "HLS-MSE",
+      "qos_buffering_spinner_duration": 1375,
+      "qos_buffering_spinner_events": 1,
+      "qos_buffering_at_end": false,
+      "qos_startup_time": 1375,
+      "telemetry": {
+        "v1": "unique-value1",
+        "v2": "unique-value2",
+        "v3": "unique-value3",
+        "v4": "unique-value4"
+      },
+      "is_ad": "no",
+      "play_id": "42a14b67-259f-4608-8414-919c946c4e29",
+      "name": "heartbeat",
+      "stream_count": 1,
+      "time": 174951,
+      "duration": 192818,
+      "playlist_id": "ece749bb-f5ce-4210-8f18-aa577e93ce58",
+      "is_ad_bool": false,
+      "primary_artist": "manel-navarro",
+      "title": "Do-It-for-Your-Lover",
+      "ad_type": null,
+      "url": "https://www.vevo.com/watch/playlist/ece749bb-f5ce-4210-8f18-aa577e93ce58?index=0",
+      "verb": "heartbeat",
+      "timestamp": 1490303730164
+    }
+  ],
+  "sent_at": 1490303730169
+}

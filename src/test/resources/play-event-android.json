@@ -1,0 +1,60 @@
+{
+  "http_user_agent": "okhttp\/2.5.0",
+  "sent_at": 1486664817568,
+  "event_id": "3c5c112b-7f12-4f4f-b81f-0e3308dde72f",
+  "device_context": {
+    "syn_id": "34eed795-99bb-482e-993f-5362e3225d9f",
+    "user_id": "90048878",
+    "build_number": 1735767665,
+    "radio_type": "unknown",
+    "platform": "android",
+    "_site": "android-prod",
+    "device": "Android",
+    "anon_id": "8fb07060-eef1-4a5f-ad9a-cbe9f01d06e2",
+    "app_version": "5",
+    "resolution": "1080x1920"
+  },
+  "geo_ip": {
+    "city": "",
+    "country": "US",
+    "region": "AL",
+    "postal_code": "",
+    "lat": 33.520706176758,
+    "lng": -86.80249786377,
+    "ip_address": "172.58.153.190"
+  },
+  "ip_address": "172.58.153.190",
+  "event_data": {
+    "qos_quality": 1.0844755172729,
+    "ad_type": null,
+    "playlist_name": "no playlist",
+    "duration": 226000,
+    "noun_id": "USUV71603814",
+    "loc": "player",
+    "is_ad_bool": false,
+    "timestamp": 1486664817546,
+    "title": "Congratulations",
+    "playlist_id": "no playlist",
+    "location": "player",
+    "qos_startup_time": 669,
+    "is_ad": "no",
+    "play_id": "3b967a2d-99f0-4382-9393-2525a415f0a1",
+    "asset_name": "post-malone.Congratulations",
+    "verb": "heartbeat",
+    "primary_artist": "post-malone",
+    "noun": "watch",
+    "name": "heartbeat",
+    "stream_count": 11,
+    "video_id": "USUV71603814",
+    "qos_buffering_spinner_events": 1,
+    "qos_buffering_spinner_duration": 669,
+    "time": 85000
+  },
+  "metadata": {
+    "timestamp": 1486664818562,
+    "app_version": "2.1.0",
+    "build_number": "1",
+    "event_type": "endo-1.0",
+    "app_name": "event-collector"
+  }
+}
